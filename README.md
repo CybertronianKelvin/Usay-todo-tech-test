@@ -43,3 +43,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Cover report image
 ![View Coverage report](https://ibb.co/5BRzzxG) usay-todo-tech-test
+<img src="https://ibb.co/5BRzzxG" alt="My cool logo"/>
