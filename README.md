@@ -42,4 +42,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Cover report image
-[View Coverage report](https://ibb.co/5BRzzxG)# usay-todo-tech-test
+![View Coverage report](https://ibb.co/5BRzzxG) usay-todo-tech-test
