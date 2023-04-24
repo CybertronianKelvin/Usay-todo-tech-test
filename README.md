@@ -44,4 +44,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ## Cover report image
 ![View Coverage report](https://i.ibb.co/vZjrrvV/test-1.png) usay-todo-tech-test
 
-<img src="https://i.ibb.co/vZjrrvV/test-1.png" alt="beginner typescript tutorial" />
+<img src="https://i.ibb.co/vZjrrvV/test-1.png" alt="usay-todo-tech-test" />
