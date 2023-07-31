@@ -1,7 +1,5 @@
 # 4C Platform Frontend Technical Test
 
-Complete test url https://main.d1nlx01nu50tz8.amplifyapp.com/
-
 Create a `ToDoList` React application that holds a list of `ToDoItem`s ordered in chronological order. The `ToDoItem`s are added via a form. Each `ToDoItem` must have a title, timestamp and a solve button. When an item is solved, the title must appear as line through text and the item will move at the end of the list.
 
 The application must make use of a `ToDoContext` that holds the state of the application. The state can be accessed and altered via the `useContext` hook. A `ToDoProvider` must make use of a `useReducer` hook and a reducer that helps modifying the state based on events and payload. Where appropriate, `useEffect` and `useState` hooks can be used.
